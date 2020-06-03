@@ -11,13 +11,13 @@ class TwoSum {
         var dict = [Int: Int]()
         
         for (i, num) in nums.enumerated() {
-            if let index = dict[target - num] {
-                return [i, index]
+            if let j = dict[target - num], j != i {
+                return [j, i]
             }
             
             dict[num] = i
         }
         
-        fatalError("No valid outputs")
+        return []
     }
 }
