@@ -4,5 +4,6 @@
         <page name='1_TwoSum'/>
         <page name='11_ContainerWithMostWater'/>
         <page name='15_ThreeSum'/>
+        <page name='16_3SumClosest'/>
     </pages>
 </playground>
