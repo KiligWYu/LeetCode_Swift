@@ -6,5 +6,6 @@
         <page name='15_ThreeSum'/>
         <page name='16_3SumClosest'/>
         <page name='18_4Sum'/>
+        <page name='26_RemoveDuplicatesFromSortedArray'/>
     </pages>
 </playground>
