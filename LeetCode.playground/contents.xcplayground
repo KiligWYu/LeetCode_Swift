@@ -8,5 +8,6 @@
         <page name='18_4Sum'/>
         <page name='26_RemoveDuplicatesFromSortedArray'/>
         <page name='27_RemoveElement'/>
+        <page name='31_NextPermutation'/>
     </pages>
 </playground>

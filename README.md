@@ -25,5 +25,6 @@ LeetCode & Swift
 | [18. 四数之和](https://leetcode-cn.com/problems/4sum/)                                              | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/18_4Sum.swift)                            | 中等 | O(n^3)     | O(nC4)     |
 | [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/26_RemoveDuplicatesFromSortedArray.swift) | 简单 | O(n)       | O(1)       |
 | [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)                                    | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/27_RemoveElement.swift)                   | 简单 | O(n)       | O(1)       |
+| [31. 下一个排列](https://leetcode-cn.com/problems/remove-element/)                                    | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/31_NextPermutation.swift)                   | 中等 | O(n)       | O(1)       |
 
 
