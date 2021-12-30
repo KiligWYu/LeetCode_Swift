@@ -9,5 +9,6 @@
         <page name='26_RemoveDuplicatesFromSortedArray'/>
         <page name='27_RemoveElement'/>
         <page name='31_NextPermutation'/>
+        <page name='33_SearchInRotatedSortedArray'/>
     </pages>
 </playground>
