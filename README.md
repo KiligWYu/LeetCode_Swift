@@ -27,5 +27,6 @@ LeetCode & Swift
 | [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)                                    | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/27_RemoveElement.swift)                   | 简单 | O(n)       | O(1)       |
 | [31. 下一个排列](https://leetcode-cn.com/problems/remove-element/)                                    | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/31_NextPermutation.swift) | 中等 | O(n) | O(1) |
 | [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/33_SearchInRotatedSortedArray.swift) | 中等 | O(logn) | O(1) |
+| [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/34_FindFirstAndLastPositionOfElementInSortedArray.swift) | 中等 | O(logn) | O(1) |
 
 

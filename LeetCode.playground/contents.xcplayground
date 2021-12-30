@@ -10,5 +10,6 @@
         <page name='27_RemoveElement'/>
         <page name='31_NextPermutation'/>
         <page name='33_SearchInRotatedSortedArray'/>
+        <page name='34_FindFirstAndLastPositionOfElementInSortedArray'/>
     </pages>
 </playground>
