@@ -29,5 +29,6 @@ LeetCode & Swift
 | [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/33_SearchInRotatedSortedArray.swift) | 中等 | O(logn) | O(1) |
 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/34_FindFirstAndLastPositionOfElementInSortedArray.swift) | 中等 | O(logn) | O(1) |
 | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/35_SearchInsertPosition.swift) | 简单 | O(logn) | O(1) |
+| [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/36_ValidSudoku.swift) | 简单 | O(n^2) | O(n) |
 
 

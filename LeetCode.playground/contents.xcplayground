@@ -12,5 +12,6 @@
         <page name='33_SearchInRotatedSortedArray'/>
         <page name='34_FindFirstAndLastPositionOfElementInSortedArray'/>
         <page name='35_SearchInsertPosition'/>
+        <page name='36_ValidSudoku'/>
     </pages>
 </playground>
