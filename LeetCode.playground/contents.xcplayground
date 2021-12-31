@@ -11,5 +11,6 @@
         <page name='31_NextPermutation'/>
         <page name='33_SearchInRotatedSortedArray'/>
         <page name='34_FindFirstAndLastPositionOfElementInSortedArray'/>
+        <page name='35_SearchInsertPosition'/>
     </pages>
 </playground>
