@@ -13,5 +13,6 @@
         <page name='34_FindFirstAndLastPositionOfElementInSortedArray'/>
         <page name='35_SearchInsertPosition'/>
         <page name='36_ValidSudoku'/>
+        <page name='39_CombinationSum'/>
     </pages>
 </playground>
