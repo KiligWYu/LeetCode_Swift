@@ -15,5 +15,6 @@
         <page name='36_ValidSudoku'/>
         <page name='39_CombinationSum'/>
         <page name='40_CombinationSumII'/>
+        <page name='45_JumpGameII'/>
     </pages>
 </playground>
