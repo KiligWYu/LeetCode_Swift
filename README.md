@@ -33,3 +33,4 @@ LeetCode & Swift
 | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/39_CombinationSum.swift) | 中等 | O(n^n) | O(2^n - 1) |
 | [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/40_CombinationSumII.swift) | 中等 | O(n^n) | O(2^n - 2) |
 | [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/45_JumpGameII.swift) | 中等 | O(n) | O(1) |
+| [46. 全排列](https://leetcode-cn.com/problems/permutations/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/46_Permutations.swift) | 中等 | O(n^n) | O(n) |
