@@ -14,5 +14,6 @@
         <page name='35_SearchInsertPosition'/>
         <page name='36_ValidSudoku'/>
         <page name='39_CombinationSum'/>
+        <page name='40_CombinationSumII'/>
     </pages>
 </playground>
