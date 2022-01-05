@@ -18,5 +18,6 @@
         <page name='45_JumpGameII'/>
         <page name='46_Permutations'/>
         <page name='47_PermutationII'/>
+        <page name='48_RotateImage'/>
     </pages>
 </playground>
