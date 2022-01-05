@@ -36,3 +36,4 @@ LeetCode & Swift
 | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/46_Permutations.swift) | 中等 | O(n^n) | O(n) |
 | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/47_PermutationII.swift) | 中等 | O(n^n) | O(n) |
 | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/48_RotateImage.swift) | 中等 | O(n^2) | O(1) |
+| [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/53_MaximumSubarray.swift) | 中等 | O(n) | O(1) |

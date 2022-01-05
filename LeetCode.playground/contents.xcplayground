@@ -19,5 +19,6 @@
         <page name='46_Permutations'/>
         <page name='47_PermutationII'/>
         <page name='48_RotateImage'/>
+        <page name='53_MaximumSubarray'/>
     </pages>
 </playground>
