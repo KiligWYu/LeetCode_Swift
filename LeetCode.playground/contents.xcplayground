@@ -23,5 +23,6 @@
         <page name='66_PlusOne'/>
         <page name='88_MergeSortedArray'/>
         <page name='108_ConvertSortedArrayToBST'/>
+        <page name='118_PascalsTriangle'/>
     </pages>
 </playground>
