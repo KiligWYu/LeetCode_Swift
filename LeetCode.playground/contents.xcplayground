@@ -25,5 +25,6 @@
         <page name='108_ConvertSortedArrayToBST'/>
         <page name='118_PascalsTriangle'/>
         <page name='119_PascalsTriangleII'/>
+        <page name='54_SpiralMatrix'/>
     </pages>
 </playground>
