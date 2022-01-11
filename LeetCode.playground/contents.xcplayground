@@ -26,5 +26,6 @@
         <page name='118_PascalsTriangle'/>
         <page name='119_PascalsTriangleII'/>
         <page name='54_SpiralMatrix'/>
+        <page name='55_JumpGame'/>
     </pages>
 </playground>

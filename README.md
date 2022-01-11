@@ -38,6 +38,7 @@ LeetCode & Swift
 | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/48_RotateImage.swift) | 中等 | O(n^2) | O(1) |
 | [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/53_MaximumSubarray.swift) | 中等 | O(n) | O(1) |
 | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/54_SpiralMatrix.swift) | 中等 | O(n^2) | O(1) |
+| [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/55_JumpGame.swift) | 中等 | O(n) | O(1) |
 | [66. 加一](https://leetcode-cn.com/problems/plus-one/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/66_PlusOne.swift) | 简单 | O(n) | O(1) |
 | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/88_MergeSortedArray.swift) | 简单 | O(n) | O(1) |
 | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/108_ConvertSortedArrayToBST.swift) | 简单 | O(n) | O(1) |
