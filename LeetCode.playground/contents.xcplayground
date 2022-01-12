@@ -27,5 +27,6 @@
         <page name='119_PascalsTriangleII'/>
         <page name='54_SpiralMatrix'/>
         <page name='55_JumpGame'/>
+        <page name='56_MergeIntervals'/>
     </pages>
 </playground>
