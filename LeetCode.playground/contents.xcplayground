@@ -29,5 +29,6 @@
         <page name='55_JumpGame'/>
         <page name='56_MergeIntervals'/>
         <page name='57_InsertInterval'/>
+        <page name='59_SpiralMatrixII'/>
     </pages>
 </playground>
