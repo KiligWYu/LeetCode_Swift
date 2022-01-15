@@ -30,5 +30,6 @@
         <page name='56_MergeIntervals'/>
         <page name='57_InsertInterval'/>
         <page name='59_SpiralMatrixII'/>
+        <page name='63_UniquePathsII'/>
     </pages>
 </playground>
