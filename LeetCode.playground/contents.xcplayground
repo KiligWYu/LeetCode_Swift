@@ -31,5 +31,6 @@
         <page name='57_InsertInterval'/>
         <page name='59_SpiralMatrixII'/>
         <page name='63_UniquePathsII'/>
+        <page name='64_MinimumPathSum'/>
     </pages>
 </playground>
