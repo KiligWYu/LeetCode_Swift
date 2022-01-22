@@ -37,5 +37,6 @@
         <page name='75_SortColors'/>
         <page name='77_Combinations'/>
         <page name='78_Subsets'/>
+        <page name='79_WordSearch'/>
     </pages>
 </playground>
