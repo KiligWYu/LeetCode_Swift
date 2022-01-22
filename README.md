@@ -47,6 +47,8 @@ LeetCode & Swift
 | [66. 加一](https://leetcode-cn.com/problems/plus-one/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/66_PlusOne.swift) | 简单 | O(n) | O(1) |
 | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/73_SetMatrixZeroes.swift) | 中等 | O(n^2) | O(1) |
 | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/74_Search2DMatrix.swift) | 中等 | O(log(m + n)) | O(1) |
+| [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/75_SortColors.swift) | 中等 | O(n) | O(1) |
+| [77. 组合](https://leetcode-cn.com/problems/combinations/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/77_Combinations.swift) | 中等 | O(n^n) | O(n) |
 | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/88_MergeSortedArray.swift) | 简单 | O(n) | O(1) |
 | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/108_ConvertSortedArrayToBST.swift) | 简单 | O(n) | O(1) |
 | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/118_PascalsTriangle.swift) | 简单 | O(n^2) | O(n^2) |
