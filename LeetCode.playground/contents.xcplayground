@@ -36,5 +36,6 @@
         <page name='74_Search2DMatrix'/>
         <page name='75_SortColors'/>
         <page name='77_Combinations'/>
+        <page name='78_Subsets'/>
     </pages>
 </playground>
