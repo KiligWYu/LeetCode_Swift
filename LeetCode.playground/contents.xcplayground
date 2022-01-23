@@ -38,5 +38,6 @@
         <page name='77_Combinations'/>
         <page name='78_Subsets'/>
         <page name='79_WordSearch'/>
+        <page name='80_RemoveDuplicatesFromSortedArrayII'/>
     </pages>
 </playground>
