@@ -40,5 +40,6 @@
         <page name='79_WordSearch'/>
         <page name='80_RemoveDuplicatesFromSortedArrayII'/>
         <page name='81_SearchInRotatedSortedArrayII'/>
+        <page name='90_subsetsII'/>
     </pages>
 </playground>

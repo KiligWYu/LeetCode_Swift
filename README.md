@@ -54,6 +54,7 @@ LeetCode & Swift
 | [80. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/80_RemoveDuplicatesFromSortedArrayII.swift) | 中等 | O(n) | O(1) |
 | [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/81_SearchInRotatedSortedArrayII.swift) | 中等 | O(logn) | O(1) |
 | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/88_MergeSortedArray.swift) | 简单 | O(n) | O(1) |
+| [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/90_SubsetsII.swift) | 中等 | O(n^n) | O(n) |
 | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/108_ConvertSortedArrayToBST.swift) | 简单 | O(n) | O(1) |
 | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/118_PascalsTriangle.swift) | 简单 | O(n^2) | O(n^2) |
 | [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/119_PascalsTriangleII.swift) | 简单 | O(n) | O(n) |
