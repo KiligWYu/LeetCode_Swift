@@ -41,5 +41,6 @@
         <page name='80_RemoveDuplicatesFromSortedArrayII'/>
         <page name='81_SearchInRotatedSortedArrayII'/>
         <page name='90_subsetsII'/>
+        <page name='105_ConstructBinaryTreeFromPreorderAndInorderTraversal'/>
     </pages>
 </playground>
