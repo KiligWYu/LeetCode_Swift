@@ -42,5 +42,6 @@
         <page name='81_SearchInRotatedSortedArrayII'/>
         <page name='90_subsetsII'/>
         <page name='105_ConstructBinaryTreeFromPreorderAndInorderTraversal'/>
+        <page name='106_ConstructBinaryTreeFromInorderAndPostorderTraversal'/>
     </pages>
 </playground>
