@@ -5,7 +5,7 @@ LeetCode & Swift
 ## 数据结构
 
 - [数组](#数组)
-- 字符串
+- [字符串](#字符串)
 - 链表
 - 栈
 - 队列
@@ -16,8 +16,8 @@ LeetCode & Swift
 
 ### 数组
 
-| 标题                                                                                                | 题解                                                                                                           | 难度 | 时间复杂度 | 空间复杂度 |
-|:---------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------:|:----:|:----------:|:----------:|
+| 标题 | 题解 | 难度 | 时间复杂度 | 空间复杂度 |
+|:---|:---:|:---:|:---:|:---:|
 | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)                                            | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/1_TwoSum.swift)                           | 简单 | O(n)       | O(n)       |
 | [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)                   | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/11_ContainerWithMostWater.swift)          | 中等 | O(n)       | O(1)       |
 | [15. 三数之和](https://leetcode-cn.com/problems/3sum/)                                              | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/15_ThreeSum.swift)                        | 中等 | O(n^2)     | O(logn)    |
@@ -60,3 +60,9 @@ LeetCode & Swift
 | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/108_ConvertSortedArrayToBST.swift) | 简单 | O(n) | O(1) |
 | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/118_PascalsTriangle.swift) | 简单 | O(n^2) | O(n^2) |
 | [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/Array/119_PascalsTriangleII.swift) | 简单 | O(n) | O(n) |
+
+### 字符串
+
+| 标题 | 题解 | 难度 | 时间复杂度 | 空间复杂度 |
+|:---|:---:|:---:|:---:|:---:|
+| [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Swift](https://github.com/KiligWYu/LeetCode_Swift/blob/master/String/3_LongestSubstringWithoutRepeatingCharacters.swift) | 中等 | O(n) | O(n) |
