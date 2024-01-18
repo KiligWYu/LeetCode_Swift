@@ -23,7 +23,7 @@ final class MergeTwoBinaryTrees: XCTestCase {
     let root = TreeNode(2)
     root.left = TreeNode(2)
 
-    XCTAssertEqual(solution.mergeTrees(root1, root2)?.inOrder, root.inOrder)
+    XCTAssertEqual(solution.mergeTrees(root1, root2)?.inorder, root.inorder)
   }
 
   /*
@@ -54,6 +54,6 @@ final class MergeTwoBinaryTrees: XCTestCase {
     root.right = TreeNode(5)
     root.right?.right = TreeNode(7)
 
-    XCTAssertEqual(solution.mergeTrees(root1, root2)?.inOrder, root.inOrder)
+    XCTAssertEqual(solution.mergeTrees(root1, root2)?.inorder, root.inorder)
   }
 }

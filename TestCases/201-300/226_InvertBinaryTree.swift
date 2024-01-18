@@ -24,8 +24,8 @@ final class InvertBinaryTree: XCTestCase {
     let root3: TreeNode? = nil
 
     let solution = Solution_226()
-    XCTAssertEqual(solution.invertTree(root)?.inOrder, [9, 7, 6, 4, 3, 2, 1])
-    XCTAssertEqual(solution.invertTree(root2)?.inOrder, [3, 2, 1])
+    XCTAssertEqual(solution.invertTree(root)?.inorder, [9, 7, 6, 4, 3, 2, 1])
+    XCTAssertEqual(solution.invertTree(root2)?.inorder, [3, 2, 1])
     XCTAssertNil(solution.invertTree(root3))
   }
 }

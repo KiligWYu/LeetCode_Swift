@@ -21,7 +21,7 @@ public class TreeNode {
 }
 
 public extension TreeNode {
-  var preOrder: [Int] {
+  var preorder: [Int] {
     var res = [Int]()
     
     func helper(_ root: TreeNode?, _ res: inout [Int]) {
@@ -35,7 +35,7 @@ public extension TreeNode {
     return res
   }
   
-  var inOrder: [Int] {
+  var inorder: [Int] {
     var res = [Int]()
     
     func helper(_ root: TreeNode?, _ res: inout [Int]) {
@@ -49,7 +49,7 @@ public extension TreeNode {
     return res
   }
   
-  var postOrder: [Int] {
+  var postorder: [Int] {
     var res = [Int]()
     
     func helper(_ root: TreeNode?, _ res: inout [Int]) {
