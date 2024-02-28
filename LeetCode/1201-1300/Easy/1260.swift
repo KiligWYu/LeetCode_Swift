@@ -9,7 +9,7 @@ import Foundation
 
 class Solution_1260 {
   func shiftGrid(_ grid: [[Int]], _ k: Int) -> [[Int]] {
-    var m = grid.count, n = grid[0].count, count = m * n
+    let m = grid.count, n = grid[0].count, count = m * n
     var res = grid
     for i in 0 ..< m {
       for j in 0 ..< n {
